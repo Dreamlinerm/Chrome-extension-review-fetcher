@@ -4,9 +4,10 @@ This script allows you to fetch all reviews of your extension from the marketpla
 
 ## Steps to Use
 
-1. Open the `reviewFetcher.py` file.
-2. Replace the existing URL with the URL of your extension.
-3. Run the Python script.
+1. Install python package: `pip install beautifulsoup4 requests`
+2. Open the `reviewFetcher.py` file.
+3. Replace the existing URL with the URL of your extension.
+4. Run the Python script.
 
 After these steps, the script will fetch all reviews in all languages and save them in an HTML file for your convenience.
 
